@@ -1,4 +1,4 @@
-package Lessons.Lesson3.DogExample;
+package lessons.lesson3.DogExample;
 
 public class DogDemo {
     public static void main(String[] args) {
